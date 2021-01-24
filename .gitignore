@@ -1,0 +1,13 @@
+.gradle\*
+build\*
+channels\*
+.idea\*
+.gradle/6.1/executionHistory/executionHistory.bin
+.gradle/6.1/executionHistory/executionHistory.lock
+.gradle/6.1/fileContent/fileContent.lock
+.gradle/6.1/fileHashes/fileHashes.bin
+.gradle/6.1/fileHashes/fileHashes.lock
+.gradle/6.1/javaCompile/classAnalysis.bin
+.gradle/6.1/javaCompile/javaCompile.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/checksums/checksums.lock
