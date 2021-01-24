@@ -1,0 +1,8 @@
+<block><msg>a</msg>
+<msg>b</msg>
+<msg>c</msg>
+<msg>d</msg></block>
+<msg>f</msg>
+<block><msg>fuck</msg>
+<msg>you</msg>
+<msg>alex</msg></block>
